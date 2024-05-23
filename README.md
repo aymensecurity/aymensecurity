@@ -17,6 +17,12 @@ check out my awesome git repos
 <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="aymensecurity" height="50" width="50" />
 
 <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="aymensecurity" height="50" width="50" />
+
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="aymensecurity" height="50" width="50" />
+
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="aymensecurity" height="50" width="50" />
+
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="aymensecurity" height="50" width="50" />
 </p>
 
 
