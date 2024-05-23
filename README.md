@@ -25,7 +25,7 @@ check out my awesome git repos
 
 <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="aymensecurity" height="50" width="50" />
 
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" alt="aymensecurity" height="50" width="50" />
+<img align="center" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="aymensecurity" height="50" width="50" />
 </p>
 
 
