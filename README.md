@@ -9,7 +9,14 @@ check out my awesome git repos
 <a href="https://tryhackme.com/p/aymensecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/tryhackme.svg" alt="aymensecurity" height="30" width="40" /></a>
 <a href="https://play.picoctf.org/users/aymensecurity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/picoctf.svg" alt="aymensecurity" height="30" width="40" /></a>
 </p>
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" alt="aymensecurity" height="100" width="600" /> 
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" alt="aymensecurity" height="100" width="100" /> 
+
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="aymensecurity" height="100" width="100" />
+
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="aymensecurity" height="100" width="100" />
+
+<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="aymensecurity" height="100" width="100" />
+
 
 <!---
 aymensecurity/aymensecurity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
