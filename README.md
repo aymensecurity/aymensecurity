@@ -1,8 +1,7 @@
-- HI 👋  I’m aymensecurity and I'am
-web pentaster and CEO of aymensecurity cyber learning platform.
-check out my awesome git repos
+
 <center><img src="./aymensecurity.gif"></center>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HI+%F0%9F%91%8B+I%E2%80%99m+Aymen+Ahmedin+and+I'am+web+pentaster+and+CEO+of+aymensecurity+cyber+learning+platform.+check+out+my+awesome+git+repos)](https://git.io/typing-svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://hackerone.com/aymensecurity?type=user" target="blank"><img align="center" src="https://camo.githubusercontent.com/3a6f805f6edbfeb85bbfff6828c93549ab897c7081bc295f5756d15af2c44647/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6861636b65726f6e652e737667" alt="aymensecurity" height="30" width="40" /></a>
