@@ -2,9 +2,6 @@
 web pentaster and CEO of aymensecurity cyber learning platform.
 check out my awesome git repos
 <center><img src="./aymensecurity.gif"></center>
-### Stats
-![Aymen's's Github Stats](https://github-readme-stats.vercel.app/api?username=aymensecurity&theme=vue-dark&show_icons=true)
-![Aymen's's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymensecurity&theme=vue-dark&layout=compact&show_icons=true&exclude_repos=macao)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
