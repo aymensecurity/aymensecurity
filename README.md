@@ -5,6 +5,8 @@
 
 ![Aymen's's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymensecurity&theme=vue-dark&show_icons=true)
 <br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aymensecurity&theme=tokyonight&hide_border=false)<br/>
+<br>
 ![Aymen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymensecurity&theme=vue-dark&layout=compact&show_icons=true&exclude_repos=macao)
 
 <h3 align="left">Connect with me:</h3>
