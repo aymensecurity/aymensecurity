@@ -1,6 +1,6 @@
 <h1 style="color:green;" align="center">AYMEN SECURITY</h1>
-<img src="./aymensecurity.gif" height="600px" width="80%">
-<center><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif" height="600px" width="80%"> </center> 
+<center><img src="./aymensecurity.gif"></center>
+<center><img src = "https://github.com/MdAmiruddin/MdAmiruddin/blob/main/Assets/about_me.gif"> </center> 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F76F&random=false&width=435&lines=Hi%2C+I'm+Aymen+Ahmedin%2C+;a+bug+bounty+hunter.)](https://git.io/typing-svg)
 
