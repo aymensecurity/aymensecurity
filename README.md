@@ -16,21 +16,7 @@
 
 </a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kali-Dark.svg" alt="aymensecurity" height="50" width="50" /> 
 
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="aymensecurity" height="50" width="50" />
-
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="aymensecurity" height="50" width="50" />
-
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" alt="aymensecurity" height="50" width="50" />
-
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="aymensecurity" height="50" width="50" />
-
-<img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="aymensecurity" height="50" width="50" />
-
-<img align="center" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="aymensecurity" height="50" width="50" />
-</p>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=aymensecurity&color=lightgrey" alt="watching_count" />
 </p>
