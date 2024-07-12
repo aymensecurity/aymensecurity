@@ -4,11 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38F76F&random=false&width=435&lines=Hi%2C+I'm+Aymen+Ahmedin%2C+;a+bug+bounty+hunter.)](https://git.io/typing-svg)
 
-![Aymen's's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymensecurity&theme=vue-dark&show_icons=true)
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aymensecurity&theme=tokyonight&hide_border=false)<br/>
-<br>
-![Aymen's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aymensecurity&theme=vue-dark&layout=compact&show_icons=true&exclude_repos=macao)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
