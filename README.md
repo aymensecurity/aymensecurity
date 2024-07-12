@@ -28,18 +28,6 @@
 <br>
 
 
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aymensecurity&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
- 
-
-
-<p align="left">
-  <a href="https://github.com/aymensecurity?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
 <hr/>
 <br/>
 
@@ -62,7 +50,17 @@
 </a>
 
 ![Aymen's Graph](https://github-readme-activity-graph.vercel.app/graph?username=aymensecurity&custom_title=Aymen's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+###  🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=aymensecurity&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
+ 
+
+
+<p align="left">
+  <a href="https://github.com/aymensecurity?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
 
 
 <!---
