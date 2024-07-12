@@ -28,6 +28,14 @@
 
 <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="aymensecurity" height="50" width="50" />
 
+
+
+## :triangular_flag_on_post: CTF profiles:
+
+<div align="center">
+ <a href="https://tryhackme.com/p/aymensecurity"><img src="https://tryhackme-badges.s3.amazonaws.com/lordofficial.png" alt="TryHackMe"></a>
+ <a href="https://app.hackthebox.com/profile/1188714"><img src="https://www.hackthebox.com/badge/image/1188714" alt="HackTheBox"></a>
+</div>
 <img align="center" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="aymensecurity" height="50" width="50" />
 </p>
 <p align="center">
